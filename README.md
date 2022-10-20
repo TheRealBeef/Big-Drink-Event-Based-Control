@@ -3,7 +3,7 @@ Uses ROS to manage a User Interface, Drink Mixer, Robotic Arm, and Mobile Robot
 
 
 
-# Software
+## Software
 - ROS/OROCOS?
 - Framework
   - Drink Mixer
@@ -15,7 +15,7 @@ Uses ROS to manage a User Interface, Drink Mixer, Robotic Arm, and Mobile Robot
 - Items simulated
   - Drink in glass
   - State of glass
-# Drink Mixer
+## Drink Mixer
 - States
    - Idle
    - Empty glass ready
@@ -36,7 +36,7 @@ Physical System
    - pumps to mix drinks
    - sensor to know when drink full
    - sensor to know that glass is loaded in position
-# Stationary Robotic Arm
+## Stationary Robotic Arm
 - States
    - Idle
    - Drink ready
@@ -59,7 +59,7 @@ Physical System
 - Physical system
    - sensor to know when mobile robot is at base station
    - signal to know when drink is mixed and ready
-# Mobile robot
+## Mobile robot
 - States
    - Idle
    - At home, orientation correct
@@ -87,7 +87,7 @@ Physical System
    - Sensor to know when robot is at base station
    - sensor to know when robot is at customer station
    - sensor to know when drink is loaded/unloaded
-# User interface
+## User interface
 - States
    - Idle
    - Order placed
