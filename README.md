@@ -1,6 +1,50 @@
 # Big-Drink-Event-Based-Control
 Uses ROS to manage a User Interface, Drink Mixer, Robotic Arm, and Mobile Robot
 
+## Set up ROS2
+### 0. Prerequisites
+* Python3,
+* VS Code (Optional but recommended)
+### 1. Set up ROS2 wrorkspace
+
+* Pull ros 2 image:
+
+  ```bash
+    docker pull osrf/ros:humble-desktop
+  ```
+
+* Execute run.sh script:
+
+  ```bash
+    ./run.sh .
+  ```
+
+* source setup files:
+
+  ```bash
+    source /opt/ros/humble/setup.bash
+  ```
+
+* Create a ROS Workspace
+
+  * Create a new directory
+
+  ```bash
+    mkdir -p ~/ws/src
+    cd ~/ws/src
+  ```
+
+  * Clone a sample
+
+* Attatch VS Code to a docker container (Optional)
+
+  * Download a Docker extention
+
+  * Go to Docker -> Containers -> right click on osrf/ros... -> Attatch Visual Studio Code
+
+  * Wait until it sets up
+
+
 
 
 ## Software
