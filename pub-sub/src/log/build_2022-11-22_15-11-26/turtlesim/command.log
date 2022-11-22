@@ -1,0 +1,2 @@
+Invoking command in '/root/ws/src/build/turtlesim': /usr/bin/cmake /root/ws/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/root/ws/src/install/turtlesim
+Invoked command in '/root/ws/src/build/turtlesim' returned '1': /usr/bin/cmake /root/ws/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/root/ws/src/install/turtlesim
