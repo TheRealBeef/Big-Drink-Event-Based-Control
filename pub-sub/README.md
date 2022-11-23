@@ -68,6 +68,8 @@
     ros2 run turtlesim turtlesim_node
   ```
 
+  * If you run docker from run.sh script it should work, however some problems with Qt or X server may occur...
+
 * Attatch VS Code to a docker container (Optional)
 
   * Download a Docker extention
@@ -97,4 +99,3 @@
     ```bash
       wget https://raw.githubusercontent.com/ros2/examples/foxy/rclpy/topics/minimal_publisher/examples_rclpy_minimal_publisher/publisher_member_function.py
     ```
-
