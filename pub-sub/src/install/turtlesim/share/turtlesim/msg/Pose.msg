@@ -1,0 +1,1 @@
+/root/ws/src/ros_tutorials/turtlesim/msg/Pose.msg
