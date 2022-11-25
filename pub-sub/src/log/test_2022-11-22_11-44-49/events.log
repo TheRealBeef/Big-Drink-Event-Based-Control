@@ -1,5 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000527] (turtlesim) JobQueued: {'identifier': 'turtlesim', 'dependencies': OrderedDict([('turtlesim', '/root/ws/src/install/turtlesim')])}
-[0.000685] (turtlesim) JobStarted: {'identifier': 'turtlesim'}
-[0.029320] (turtlesim) JobEnded: {'identifier': 'turtlesim', 'rc': 0}
-[0.029882] (-) EventReactorShutdown: {}
