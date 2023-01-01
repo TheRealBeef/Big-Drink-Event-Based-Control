@@ -1,5 +1,6 @@
 #!/bin/bash
 
+rm -rf /home/developer/.ros/log/
 catkin_make
 . devel/setup.bash
 roslaunch /home/developer/ws/src/big_drink/launch/open.launch

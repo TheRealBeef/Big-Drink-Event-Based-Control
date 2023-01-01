@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rostopic pub /glass_state std_msgs/String "Empty Glass Ready"
