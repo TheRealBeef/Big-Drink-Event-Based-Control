@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rostopic pub /order std_msgs/String "Jack Daniels drink"

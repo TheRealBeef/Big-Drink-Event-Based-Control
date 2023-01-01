@@ -1,0 +1,2 @@
+big_drink
+-DCATKIN_DEVEL_PREFIX=/home/developer/ws/devel -DCMAKE_INSTALL_PREFIX=/home/developer/ws/install -G Unix Makefiles

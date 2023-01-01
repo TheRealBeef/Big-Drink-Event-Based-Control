@@ -1,0 +1,5 @@
+<launch>
+
+  <node name="drink_mixer" pkg="big_drink" type="drink_mixer.py" args="1"/>
+
+</launch>

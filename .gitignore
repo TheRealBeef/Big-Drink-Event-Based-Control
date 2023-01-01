@@ -1,2 +1,2 @@
 # ignore all logs and build files
-**/logs **/build
+**/logs **/build **/devel **/install

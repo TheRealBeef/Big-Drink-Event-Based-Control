@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rostopic pub /close std_msgs/Bool True

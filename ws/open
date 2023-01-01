@@ -1,0 +1,5 @@
+#!/bin/bash
+
+catkin_make
+. devel/setup.bash
+roslaunch /home/developer/ws/src/big_drink/launch/open.launch
